@@ -1,3 +1,7 @@
+[REQUIREMENT]
+- ESX V1.1 / ESX V1.2 / ESX Legacy
+- Qtarget
+
 🛒 | Rheein's Shop [FiveM]
 
 Discord: https://discord.gg/ukNYet7rTc
